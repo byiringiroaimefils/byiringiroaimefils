@@ -15,7 +15,7 @@
 🔹 **Version Control:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab&logoColor=white)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=byiringiroaimefils&show_icons=true&theme=radical)
 <!-- 
 ## 📌 Notable Projects
 🚀 **Chrome Extension:** A browser extension for quickly finding word meanings by highlighting text.
