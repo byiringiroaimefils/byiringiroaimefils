@@ -1,6 +1,6 @@
 # Hi there! 👋 Welcome to My GitHub Profile
 
-// ## 🚀 About Me
+## 🚀 About Me
 🌟 Passionate about building scalable and efficient web applications.
 💻 Enthusiastic about open-source contributions and learning new technologies.
 
