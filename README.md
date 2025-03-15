@@ -16,13 +16,13 @@
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=byiringiroaimefils&show_icons=true&theme=radical)
-<!-- 
+
 ## 📌 Notable Projects
 🚀 **Chrome Extension:** A browser extension for quickly finding word meanings by highlighting text.
 
 🛒 **Coffee Shop Website:** A MERN stack e-commerce site for ordering beverages online.
 
-💡 **Student Collaboration App:** A platform enabling students to chat, share files, and collaborate on projects. -->
+💡 **Student Collaboration App:** A platform enabling students to chat, share files, and collaborate on projects.
 
 ## 📫 Let's Connect!
 🔗 [LinkedIn](https://www.linkedin.com/in/byiringiro-aime-fils-281609296/)
