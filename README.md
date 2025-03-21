@@ -19,7 +19,7 @@
 
 ## 📌 Notable Projects
 🚀 **Chrome Extension:** A browser extension for quickly finding word meanings by highlighting text.
-
+🛒 **Coffee Shop Website:** A MERN stack e-commerce site for ordering beverages online.
 🛒 **Coffee Shop Website:** A MERN stack e-commerce site for ordering beverages online.
 
 💡 **Student Collaboration App:** A platform enabling students to chat, share files, and collaborate on projects.
