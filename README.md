@@ -1,7 +1,7 @@
 # Hi there! 👋 Welcome to My  BYIRINGIRO Aime Fils Profile
 
 ## 🚀 About Me
-🌟 Passionate about building scalable and efficient web applications.
+🌟 Passionate about building scalable and efficient web application.
 💻 Enthusiastic about open-source contributions and learning new technologies.
 
 ## 🛠 Tech Stack
