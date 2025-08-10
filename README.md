@@ -27,6 +27,7 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/byiringiro-aime-fils-281609296/)
 🌐 [Portfolio](https://aimefils.vercel.app)
 🐦 [Twitter](https://x.com/aimefils173)
+🐦 [Twitter](https://x.com/aimefils173)
 
 ✨ Keep Building. Keep Learning. Keep Innovating! 🚀
 
